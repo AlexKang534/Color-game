@@ -1,3 +1,2 @@
-# project-learning
-learning how to code.
-not having a good time
+# Color Game Project
+Completed July 10th
